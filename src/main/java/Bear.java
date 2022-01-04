@@ -44,7 +44,9 @@ public class Bear {
         if (this.weight > 80.00) {
             return true;
         }
-        return false;
+        else {
+            return false;
+        }
     }
 
 }
